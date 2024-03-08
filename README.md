@@ -1,5 +1,4 @@
-# Son-of-Nomad
-ESP32 Dongle for JBD BMSs
+# ESP32 Dongle for JBD BMSs
 
 Purpose Emulate the original JBD BLE dongle.
 
